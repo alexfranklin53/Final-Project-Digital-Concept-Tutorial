@@ -1,35 +1,14 @@
-## Sample of Code
+## Hosting to an External Site
 
-# Here is a fizzbuzz program written for an assignment in class
+1. We will be using YouTube as the video hosting site, so go to www.youtube.com.
+2. Log into your google account, and head to your channel.
+3. On the upper right corner there is a button that resembles a camera. This is the "Create" button.
+4. After clicking the "Create" button, click "Upload Video" from the dropdown.
+5. With your file explorer open, drag the saved video file over to the "Upload Videos" window on YouTube.
+6. Now you have the option the set your videos title/ description and visibility status. Configure the settings you want and then press "Upload"
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Fizz Buzz</title>
-<script>
+# Now your video is uploaded for all to see
 
-function fizzbuzz() {
-var display = document.getElementById('display');
-var displayHTML = "";
-for (i = 0; i < 100; i++) {
 
-if(i % 3==0 && i % 5==0){ //if the val divisible by 3 and 5
-        displayHTML+= "<p>"+"FizzBuzz"+"</p>";
-}
-else if(i % 5==0){ //if the val divisible by 5
-        displayHTML += "<p>"+"Buzz"+"</p>";
-}
-else if(i%3 == 0){
-        displayHTML += "<p>"+"Fizz"+"</p>"; //if the val divisible by 3
-}
-else{
-    continue; //continue if not
-}
-}
-display.innerHTML = displayHTML
-}
-
-</script>
         
 [return to home page](./README.md)
