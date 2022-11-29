@@ -6,11 +6,11 @@
 
 1. In the bottom left corner, search Xbox gamebar and open it up.
 2. You should see a window pop up that says capture.
-3. Find a program or software you'd like to record and pull it up
+3. Find a program or software you'd like to record and pull it up.
 
 
-## Things to look out for
-* Xbox gamebar will not record your computers desktop,
+## Things to Look Out For
+* Xbox gamebar will not record your computers desktop.
 * You must have a program up and running to be able to initiate the screen capture button.
 
 
