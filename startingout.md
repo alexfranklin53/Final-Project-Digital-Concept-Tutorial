@@ -1,17 +1,17 @@
 # Getting Started
 
-## Choosing A Language
-* For simplicity's sake, we will be using HTML inside of a text editor
-* Using CSS and Javascript is also possible, but is outside the scope of this tutorial
+## Choosing A Recording Software
+* For simplicity's sake, we will be using the Xbox gamebar that comes standard on Windows 10.
+* There are other methods of screen recording available, but the availability and ease of use make Xbox gamebar an easy choice.
 
-1. Find your computers text editor and open it up.
+1. In the bottom left corner, search Xbox gamebar and open it up.
+2. You should see a window pop up that says capture.
+3. Find a program or software you'd like to record and pull it up
 
 
-## Coding Experience
-* Classroom teachings with python
-* Classroom teachings with html
-* Classroom teachings with javascript
+## Things to look out for
+* Xbox gamebar will not record your computers desktop,
+* You must have a program up and running to be able to initiate the screen capture button.
 
-* [LinkdIn](https://www.linkedin.com/in/alex-franklin-527a4020a)
 
 [return to home page](./README.md)
