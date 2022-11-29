@@ -10,4 +10,10 @@
 2. When recording, a small window will popup in the corner of your screen that gives you the option to stop the recording.
 3. When finished, stop the recording.
 
+
+
+[Previous Page](./startingout.md)
+
+[Next Page](./saving.md)
+
 [return to home page](./README.md)
