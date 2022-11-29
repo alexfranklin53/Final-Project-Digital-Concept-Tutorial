@@ -1,7 +1,11 @@
-# Academic Performance
-1. 4.0 GPA at Mineral Area College during the SP21 Semester
-2. 3.9 GPA at the University of Missouri for the FA21 Semester
+# Saving Your Recording
 
-![Mizzou](https://muarchives.missouri.edu/images/exh_1900/Reflections-rubble-t.jpg)
+
+1. Press Windows key + G on your keyboard to open up the gamebar and access your recording.
+2. In the upper left capture window, click on " See My Captures".
+3. Click on " Open File Location".
+4. This will open your file explorer and show you where your computer has automatically saved.
+
+
 
 [return to home page](./README.md)
