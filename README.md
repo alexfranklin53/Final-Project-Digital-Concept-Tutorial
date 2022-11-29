@@ -9,3 +9,8 @@ Use these links to access the individual steps of the tutorial!
 * * [Recording](./recording.md)
 * * [Saving Your Recording](./saving.md)
 * * [Hosting to an External Site](./hosting.md)
+
+
+
+[Next Page](./startingout.md)
+
