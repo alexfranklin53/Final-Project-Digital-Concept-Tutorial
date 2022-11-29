@@ -6,6 +6,8 @@
 3. Click on " Open File Location".
 4. This will open your file explorer and show you where your computer has automatically saved.
 
+[Previous Page](./recording.md)
 
+[Next Page](./hosting.md)
 
 [return to home page](./README.md)
