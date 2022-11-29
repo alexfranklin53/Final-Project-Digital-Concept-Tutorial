@@ -7,7 +7,7 @@
 5. With your file explorer open, drag the saved video file over to the "Upload Videos" window on YouTube.
 6. Now you have the option the set your videos title/ description and visibility status. Configure the settings you want and then press "Upload"
 
-# Now your video is uploaded for all to see
+# Now your video is uploaded for all to see.
 
 [Previous Page](./saving.md)
         
