@@ -14,4 +14,6 @@
 * You must have a program up and running to be able to initiate the screen capture button.
 
 
+[Previous Page](./README.md)
+[Next Page](./recording.md)
 [return to home page](./README.md)
