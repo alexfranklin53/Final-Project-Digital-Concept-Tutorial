@@ -5,6 +5,6 @@
 Use these links to access the individual steps of the tutorial!
 
 * * [Getting Started](./startingout.md)
-* * [Hobbies](./Hobbies.md)
-* * [Academic Performance](./Academic_performance.md)
-* * [Code Sample](./Code.md)
+* * [Recording](./recording.md)
+* * [Saving Your Recording](./saving.md)
+* * [Hosting to an External Site](./hosting.md)
