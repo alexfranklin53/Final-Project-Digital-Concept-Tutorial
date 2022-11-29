@@ -1,13 +1,10 @@
-# Personal Experience
+# Getting Started
 
-## Professional Experience
-* Various Leadership Roles in the **United States Army** such as: Dismount Team Leader, Bradley Fighting Vehicle Gunner, and Dismount Section Leader.
-* A tour to *Iraqi Kurdistan* in 2019 under United States JSOC.
-* Ample experience in working with partner forces such as the *Kuwaiti Army, Hungarian Army, and Kurdish Peshmerga.*
-* Long hours performing stressful work with little rest.
+## Choosing A Language
+* For simplicity's sake, we will be using HTML inside of a text editor
+* Using CSS and Javascript is also possible, but is outside the scope of this tutorial
 
-[On the job photo](IMG_0799.JPG)
-
+1. Find your computers text editor and open it up.
 
 
 ## Coding Experience
